@@ -1,0 +1,41 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.repost-fot-Zoo2.git.iml
+/contentModel.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/encodings.xml
+/indexLayout.xml
+/zoo2/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+/zoo2/obj/project.assets.json
+/zoo2/obj/project.nuget.cache
+/zoo2/obj/project.packagespec.json
+/zoo2/obj/rider.project.restore.info
+/zoo2/obj/Debug/net9.0/zoo2.AssemblyInfo.cs
+/zoo2/obj/Debug/net9.0/zoo2.AssemblyInfoInputs.cache
+/zoo2/obj/Debug/net9.0/zoo2.assets.cache
+/zoo2/obj/zoo2.csproj.nuget.dgspec.json
+/zoo2/obj/zoo2.csproj.nuget.g.props
+/zoo2/obj/zoo2.csproj.nuget.g.targets
+/zoo2/obj/Debug/net9.0/zoo2.GeneratedMSBuildEditorConfig.editorconfig
+/zoo2/obj/Debug/net9.0/zoo2.GlobalUsings.g.cs
+/zoo2/obj/Debug/net9.0/apphost
+/zoo2/bin/Debug/net9.0/zoo2
+/zoo2/obj/Debug/net9.0/zoo2.csproj.CoreCompileInputs.cache
+/zoo2/obj/Debug/net9.0/zoo2.csproj.FileListAbsolute.txt
+/zoo2/bin/Debug/net9.0/zoo2.deps.json
+/zoo2/bin/Debug/net9.0/zoo2.dll
+/zoo2/obj/Debug/net9.0/ref/zoo2.dll
+/zoo2/obj/Debug/net9.0/refint/zoo2.dll
+/zoo2/obj/Debug/net9.0/zoo2.dll
+/zoo2/obj/Debug/net9.0/zoo2.genruntimeconfig.cache
+/zoo2/bin/Debug/net9.0/zoo2.pdb
+/zoo2/obj/Debug/net9.0/zoo2.pdb
+/zoo2/bin/Debug/net9.0/zoo2.runtimeconfig.json
